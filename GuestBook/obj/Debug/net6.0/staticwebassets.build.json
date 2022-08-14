@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8S5HBJjHiaxW/Vaw7qka2eky+oyzLoUMGkHVatttwFA=",
+  "Source": "GuestBook",
+  "BasePath": "_content/GuestBook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
