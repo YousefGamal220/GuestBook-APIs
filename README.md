@@ -18,3 +18,5 @@ Needed to be done next:
 4. Complete More Scenarios for Unit Tests.
 5. Make a docker-compose for both database and backend.
 
+Design Choices:
+For each feature (the endpoints are represented as controllers, Data Models as Models, dealing with Database with Services, Validate Inputs through validators
